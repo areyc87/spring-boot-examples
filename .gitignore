@@ -10,6 +10,7 @@ Target
 .classpath
 .project
 .settings
+.idea
 mvnw
 mvnw.cmd
 
