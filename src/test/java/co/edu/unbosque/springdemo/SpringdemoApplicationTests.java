@@ -1,10 +1,10 @@
-package co.edu.unbosque.programacion2.examen;
+package co.edu.unbosque.springdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExamenProgramacion2Test {
+class SpringdemoApplicationTests {
 
 	@Test
 	void contextLoads() {

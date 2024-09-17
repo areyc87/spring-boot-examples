@@ -1,13 +1,13 @@
-package co.edu.unbosque.programacion2.examen;
+package co.edu.unbosque.springdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExamenProgramacion2 {
+public class SpringdemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExamenProgramacion2.class, args);
+		SpringApplication.run(SpringdemoApplication.class, args);
 	}
 
 }
